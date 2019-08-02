@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "lynkslist-apix": {
+      "schemaPath": "schema.graphql",
+      "extensions": {
+        "endpoints": {
+          "default": "http://localhost:4567/graphql"
+        }
+      }
+    }
+  }
+}

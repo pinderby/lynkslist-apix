@@ -11,6 +11,9 @@
 # production
 /build
 
+# generated
+schema.graphql
+
 # misc
 .DS_Store
 .env.local
