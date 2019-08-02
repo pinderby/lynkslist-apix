@@ -1,16 +1,23 @@
 import React from 'react';
-import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from '../Shared/Navbar';
+import Post from './Post';
+import data from '../test_data.json';
 
 function Feed() {
   return (
-    <div className="Feed">
+    <div>
       <Navbar />
-      Feed
-      <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-      </form>
+      <div className="feed-container container">
+        <form className="form-inline feed-search">
+          <input className="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
+          <button className="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+        <div className="feed-content-container">
+          {data.posts.map((post, i) => 
+            <Post key={i} post={post} />
+          )}
+        </div>
+      </div>
     </div>
   );
 }

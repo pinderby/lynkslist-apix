@@ -23,6 +23,61 @@
   color: #61dafb;
 }
 
+.feed-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.feed-search {
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
+.feed-search > input.form-control {
+  min-width: 500px;
+}
+
+.feed-content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.post-card {
+  margin: 25px 0px;
+  max-width: 500px;
+  text-align: left;
+}
+
+.post-card .card-title {
+  margin-bottom: 0.5rem;
+}
+
+.post-card .card-title > a, 
+.post-card .card-title > a:hover {
+  color: #4a4a4a !important;
+}
+
+.post-card .post-card-publisher {
+  margin-bottom: 0.5rem;
+}
+
+.publisher-icon-img {
+  max-width: 25px;
+  margin-right: 5px;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
