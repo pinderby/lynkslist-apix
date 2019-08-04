@@ -13,7 +13,7 @@ function Feed() {
           <button className="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
         <div className="feed-content-container">
-          {data.posts.map((post, i) => 
+          {data.map((post, i) => 
             <Post key={i} post={post} />
           )}
         </div>

@@ -1,6 +1,7 @@
 import React from 'react';
 
 function Navbar() {
+  // TODO --DTM-- Add links (popular, trending...)
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <a className="navbar-brand" href="#">Lynkslist</a>

@@ -1,30 +1,43 @@
 import React from 'react';
+import moment from 'moment';
+import Tag from './Tag';
 
 function Post(props) {
   console.log("props: ", props); // TODO --DTM-- Remove
-  // TODO --DTM-- Rewrite to be horizontal: https://getbootstrap.com/docs/4.3/components/card/#horizontal
+
+  let imageContainer = "", hasImg = false;
+  if (props.post.visual.url != "none") {
+    hasImg = true;
+    imageContainer = 
+      <div className="img-container col-md-4">
+        <a href={props.post.canonicalUrl} >
+          <img src={props.post.visual.url} className="card-img-top" alt="..." />
+        </a>
+      </div>;
+  }
+  
   return (
     <div className="post-card card mb-3">
-      <a href={props.post.post_source_url} ><img src={props.post.post_image_url} className="post-card-img card-img-top" alt="..." /></a>
-      <div className="card-body">
-        <h5 className="card-title">
-          <a href={props.post.post_source_url}>{props.post.post_title}</a>
-        </h5>
-        <div className="post-card-publisher">
-          <p className="card-text">
-            <img src={props.post.publisher_icon_url} className="publisher-icon-img card-img-top" alt="..." />
-            <small class="text-muted"><a href={props.post.publisher_url}>{props.post.publisher}</a></small>
-          </p>
+      <div className="row no-gutters">
+        {imageContainer}
+        <div className={hasImg ? "col-md-8" : "col-md-12"}>
+          <div className="card-body">
+            <h5 className="card-title">
+              <a href={props.post.canonicalUrl}>{props.post.title}</a>
+            </h5>
+            <small class="text-muted">
+              <a href={props.post.origin.htmlUrl}>{props.post.origin.title}</a>
+              &nbsp;•&nbsp;
+              Published&nbsp;{moment(props.post.crawled).fromNow()}
+            </small>
+            <p className="post-summary card-text">{props.post.summary.content}</p>
+            <div className="tags-container">
+              {props.post.keywords.map((tag, i) => 
+                <Tag key={i} tag={tag} />
+              )}
+            </div>
+          </div>
         </div>
-        <p className="card-text">
-          {props.post.post_snippet}
-        </p>
-        <p className="card-text">
-        </p>
-      </div>
-      <div className="card-footer">
-        <small className="text-muted float-left">{props.post.posted_at}</small>
-        <small className="text-muted float-right">{props.post.post_reactions} Reactions • {props.post.post_comments} Comments • {props.post.post_shares} Shares</small>
       </div>
     </div>
   );

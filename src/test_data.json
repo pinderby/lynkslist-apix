@@ -1,32 +1,826 @@
-{
-  "posts":[
-    {
-      "id":"123456",
-      "publisher_icon_url":"https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-1/p50x50/12289622_10154246192721509_1897912583584847639_n.png?_nc_cat=1&_nc_oc=AQnA0krvwDT9qGSVrGFRleQFz2U6snJyMBQj5g5cR8PdV5vOncrGCFruHGhtN9u2IS8&_nc_ht=scontent-lax3-1.xx&oh=27fe521e3586dd7fa28912c0fbf8102d&oe=5DA51DDF",
-      "publisher":"CNN",
-      "publisher_url":"https://www.cnn.com/",
-      "posted_at":"2019-08-01T23:01:00Z",
-      "post_title":"Pilot makes emergency landing on highway - all captured on trooper's dashcam",
-      "post_image_url":"https://external-lax3-1.xx.fbcdn.net/safe_image.php?d=AQBRduJh4CTxH0ZY&w=540&h=282&url=https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190801170556-washington-plane-emergency-landing-super-tease.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDi8AEdLyhCfYXz%22",
-      "post_snippet":"The trooper turned on his emergency lights to block traffic to help the plane land. His dashcam captured the plane thundering down the road and stopping at a red light, just like the cars on the road.",
-      "post_source_url":"https://www.cnn.com/2019/08/01/us/washington-plane-landing-trnd/index.html",
-      "post_reactions":"165",
-      "post_shares":"38",
-      "post_comments":"36"
+[
+  {
+      "id": "YwTjCnEeIqxj44sdnT7JFQW42L9DNW4VSirj5QJk0qw=_16c537ffe03:13e069f:4b2e0c8b",
+      "keywords": [
+          "AI",
+          "ReadWrite",
+          "Tech",
+          "Digital Photography"
+      ],
+      "originId": "https://readwrite.com/?p=155541",
+      "fingerprint": "21bf7746",
+      "content": {
+          "content": "<div><img sizes=\"(max-width: 300px) 100vw, 300px\" src=\"https://images.readwrite.com/wp-content/uploads/2019/06/How-Technology-is-Helping-Reshape-Photo-Editing-Software-300x200.jpg\" width=\"300\" alt=\"photo editing\" srcset=\"https://images.readwrite.com/wp-content/uploads/2019/06/How-Technology-is-Helping-Reshape-Photo-Editing-Software-300x200.jpg 300w, https://images.readwrite.com/wp-content/uploads/2019/06/How-Technology-is-Helping-Reshape-Photo-Editing-Software-240x160.jpg 240w, https://images.readwrite.com/wp-content/uploads/2019/06/How-Technology-is-Helping-Reshape-Photo-Editing-Software-900x600.jpg 900w\" class=\"wp-post-image\" height=\"200\"></div><p><span>Perhaps the best thing that has ever happened to photography is the advent of digital technology. The world has long since left analog and chemical photo editing procedures behind for digital photo editing software. And digital photography has brought the craft to the hands of amateurs. But, how is technology helping reshape photo editing software?<br>\n</span></p>\n<p><span>While Photoshop remains the household name and even synonym for photo editing, many other applications, especially </span><span>top photo editing software</span><span> for beginners have risen to the challenge as photography gets increasingly advanced. </span></p>\n<p><span>Following <a href=\"https://readwrite.com/2019/07/08/technologies-redefining-in-store-customer-experience/\">digital technology</a>, the next big thing appears to be <a href=\"https://readwrite.com/2019/06/27/internet-of-things-iot-to-become-more-deeply-embedded-in-2019/\">Artificial Intelligence</a>. An AI-powered photo editing software uses machine learning to enhance images and manipulate them in various regards. Therefore, the ways described in this article are related to AI in one way or the other. Even innovations from the digital revolution are being improved upon. </span></p>\n<h3><b>One-Touch Editing. </b></h3>\n<p><span>Photoshop seems cumbersome and complex for many, even professional photographers. </span><span>This might have been the idea behind alternative Adobe photo editing software like Lightroom. </span><span>Nevertheless, many software has arisen to rival Photoshop in offering one-touch editing where adjustments that would have taken hours are made in seconds and minutes, of course, with AI at play. This is not unexpected, the world is running faster. </span></p>\n<ul>\n<li><span><strong>Luminar</strong> <strong>by Skylum</strong> is a good photo editing software that gives its users an edge with its Accidental AI. It enables users to adjust a wide range of features by using a slider. Its preset styles make this possible too. The app is also available as a plugin in Photoshop, Lightroom and Apple Photos. </span></li>\n<li><span><strong>Movavi Photo Editor</strong> is an </span><a href=\"http://www.fotoworks.org/photo-editing-software/\"><span>easy photo editing software</span></a><span> that prides itself on one-touch photo enhancement. It conveniently combines its simplicity with high-end sophistication, ensuring that quality is not compromised. </span></li>\n<li><span><strong>Photolemur</strong> is an easy image editor that comes with an auto image editing feature. It does this with the aid of algorithms. </span></li>\n</ul>\n<h3><b>Face Beauty Effects.</b></h3>\n<p><span>Since the rise of selfies, photo editing software has been heavily invested in the face beauty trend. Most of the applications, especially mobile ones, are only for amateurs. </span><span>However, there are professional photo editing software that relies on strong AI-driven facial recognition technology to create more realistic effects. </span></p>\n<ul>\n<li><span><strong>Skylum</strong> recently released an update to the Luminar photo editing software that featured a new Accent AI 2.0 technology dubbed ‘human-aware’. Using <a href=\"https://readwrite.com/2019/07/16/what-frequent-fliers-need-to-know-about-airport-facial-recognition/\">facial and object recognition</a> technology, it is capable of creating better photo effects. It removes the hassle of individually adjusting effects like contrast, shadows, highlights, color correction and so on. Its strong point is that it still affords photographers a lot of flexibility with editing. </span></li>\n<li><span><strong>Photolemur</strong> has what is called Face Finish Technology. It <a href=\"https://readwrite.com/2019/07/18/how-ai-helps-secure-your-finances-and-other-stuff-on-mobile/\">uses AI</a> (too) to analyze image details and corrects imperfections at once. Typical face editing features like teeth whitening and eye correction are embedded in this photo editing software. </span></li>\n<li><span><strong>Prisma</strong>, one of the top photo editing software designed Lensa as an app to retouch selfies. It has a lot of face beauty features such as skin tone smoothing, eye/eyebrow effects, texture and so on. It also features innovative features like Bokeh that is similar to the iPhone’s portrait mode. </span></li>\n</ul>\n<h3><b>Style Effects.</b></h3>\n<p><span>Most photo editing software now offers customized styles that apply various effects for you, especially when you do not have much time for editing. These quick effects make it faster and easier to edit a photo and are great for amateurs who don’t want all the complexity of typical <a href=\"https://readwrite.com/2019/05/12/how-these-apps-will-make-you-a-better-photographer/\">photo editing apps</a>. </span></p>\n<ul>\n<li><span><strong>Prisma photo</strong> editing software (on Android and iOS) gave rise to artistic effects in photos. It uses AI to transform typical photos even artworks that they appear like paintings, mosaics sketches, etc. Since its release in 2016, it has gained widespread adoption among many and has come to be known as a primary art app. </span></li>\n<li><span><strong>GoArt by Fotor</strong> transforms photos into artistic masterpieces with AI. It can make your photos imitate mainstream art styles such as impressionism, abstract, fauvism, dadaism, etc. and even make photos look like they are straight out of Van Gogh’s studio. </span></li>\n<li><span><strong>Painnt</strong> is another photo editing software that is art-driven. It features several styles that are further divided into categories for easy use. </span></li>\n</ul>\n<h3><b>Photo Upscaling. </b></h3>\n<p><span>Humans are insatiable. And while our cameras have read unrealistic resolutions and keep going higher, we still need more. This desire has birthed photo upscaling apps that use AI to increase photo resolution while preserving quality and is great in the case of photo printing. </span></p>\n<ul>\n<li><span><strong>Topaz Labs</strong> claims that its Gigapixel AI which is not exactly a full-fledged photo editing software can enlarge photos and upscale them to 600% while preserving detail, using machine learning to analyze the images pixel-by-pixel.</span></li>\n<li><span><strong>Bigjpg</strong> uses the latest Deep Convolutional Neural Networks technology to reduce noise and increase the quality of images with the photos themselves retaining their excellent quality. </span></li>\n<li><span><strong>Letsenhance</strong>.io is a web application that does as its name says: enhances pictures. It promises it can upscale images 16x the original. It rivals many mainstream photo editing software in this regard. </span></li>\n</ul>\n<p><b>Conclusion </b></p>\n<p><span>As mentioned earlier, the current wave of photo editing software trends is motivated by AI and is bound to continue so. Keep in mind that all the software mentioned are just for illustration purposes: they may not necessarily be the best but show how technology has impacted </span><span>photo editing</span><span>. </span></p>\n<p><span>As the niche evolves, digital photography is set to take a turn around. What will we would do with pictures in 2020? Will they be radically different than what was obtainable decades ago. </span></p>\n<p>The post <a rel=\"nofollow\" href=\"https://readwrite.com/2019/08/02/how-technology-is-helping-reshape-photo-editing-software/\">How Technology is Helping Reshape Photo Editing Software</a> appeared first on <a rel=\"nofollow\" href=\"https://readwrite.com\">ReadWrite</a>.</p>",
+          "direction": "ltr"
+      },
+      "title": "How Technology is Helping Reshape Photo Editing Software",
+      "author": "Michael Usiagwu",
+      "summary": {
+          "content": "Perhaps the best thing that has ever happened to photography is the advent of digital technology. The world has long since left analog and chemical photo editing procedures behind for digital photo editing software. And digital photography has brought the craft to the hands of amateurs. But, how is technology helping reshape photo editing software?",
+          "direction": "ltr",
+          "original_content":"<div><img sizes=\"(max-width: 300px) 100vw, 300px\" src=\"https://images.readwrite.com/wp-content/uploads/2019/06/How-Technology-is-Helping-Reshape-Photo-Editing-Software-300x200.jpg\" width=\"300\" alt=\"photo editing\" srcset=\"https://images.readwrite.com/wp-content/uploads/2019/06/How-Technology-is-Helping-Reshape-Photo-Editing-Software-300x200.jpg 300w, https://images.readwrite.com/wp-content/uploads/2019/06/How-Technology-is-Helping-Reshape-Photo-Editing-Software-240x160.jpg 240w, https://images.readwrite.com/wp-content/uploads/2019/06/How-Technology-is-Helping-Reshape-Photo-Editing-Software-900x600.jpg 900w\" class=\"wp-post-image\" height=\"200\"></div>\n<p>Perhaps the best thing that has ever happened to photography is the advent of digital technology. The world has long since left analog and chemical photo editing procedures behind for digital photo editing software. And digital photography has brought the craft to the hands of amateurs. But, how is technology helping reshape photo editing software? […]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://readwrite.com/2019/08/02/how-technology-is-helping-reshape-photo-editing-software/\">How Technology is Helping Reshape Photo Editing Software</a> appeared first on <a rel=\"nofollow\" href=\"https://readwrite.com\">ReadWrite</a>.</p>"
+      },
+      "alternate": [
+          {
+              "href": "https://readwrite.com/2019/08/02/how-technology-is-helping-reshape-photo-editing-software/",
+              "type": "text/html"
+          }
+      ],
+      "crawled": 1564768992771,
+      "published": 1564768831000,
+      "origin": {
+          "streamId": "feed/http://www.readwriteweb.com/rss.xml",
+          "title": "ReadWrite",
+          "htmlUrl": "https://readwrite.com"
+      },
+      "visual": {
+          "processor": "feedly-nikon-v3.1",
+          "url": "https://images.readwrite.com/wp-content/uploads/2019/06/How-Technology-is-Helping-Reshape-Photo-Editing-Software-900x600.jpg",
+          "width": 900,
+          "height": 600,
+          "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://readwrite.com/2019/08/02/how-technology-is-helping-reshape-photo-editing-software/",
+      "unread": true,
+      "commonTopics": [
+          {
+              "score": 31.132906809479977,
+              "id": "nlp/f/topic/3000",
+              "salienceLevel": "about",
+              "label": "artificial intelligence"
+          },
+          {
+              "score": 1.0,
+              "id": "nlp/f/topic/2380",
+              "salienceLevel": "about",
+              "label": "unschooling"
+          },
+          {
+              "score": 1.0,
+              "id": "nlp/f/topic/737",
+              "salienceLevel": "about",
+              "label": "editing"
+          },
+          {
+              "score": 0.976,
+              "id": "nlp/f/topic/148",
+              "salienceLevel": "about",
+              "label": "art"
+          },
+          {
+              "score": 0.973,
+              "id": "nlp/f/topic/1748",
+              "salienceLevel": "about",
+              "label": "photography"
+          },
+          {
+              "score": 0.972,
+              "id": "nlp/f/topic/1342",
+              "salienceLevel": "about",
+              "label": "lightroom"
+          },
+          {
+              "score": 0.749,
+              "id": "nlp/f/topic/1488",
+              "salienceLevel": "mention",
+              "label": "models"
+          }
+      ],
+      "entities": [
+          {
+              "mentions": [
+                  {
+                      "text": "image editing"
+                  },
+                  {
+                      "text": "photo editing"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:545981",
+              "salienceLevel": "about",
+              "label": "image editing"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "technology"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:11016",
+              "salienceLevel": "about",
+              "label": "technology"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "strong AI"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:2264109",
+              "salienceLevel": "mention",
+              "label": "artificial general intelligence"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "Photoshop"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:129793",
+              "salienceLevel": "mention",
+              "label": "Adobe Photoshop"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "machine learning"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:2539",
+              "salienceLevel": "mention",
+              "label": "machine learning"
+          }
+      ],
+      "engagement": 8,
+      "engagementRate": 0.50,
+      "webfeeds": {
+          "relatedLayout": "card",
+          "relatedTarget": "browser",
+          "logo": "http://storage.googleapis.com/test-site-assets/YwTjCnEeIqxj44sdnT7JFQW42L9DNW4VSirj5QJk0qw_ologo-14f043fdf1c",
+          "analyticsId": "UA-64498257-1",
+          "analyticsEngine": "GoogleAnalytics"
+      }
+  },
+  {
+    "id": "Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_16c59bdc787:122d73:25888a06",
+    "keywords": [
+        "Entertainment",
+        "Media",
+        "Podcasts",
+        "BBC",
+        "HBO",
+        "Original Content podcast"
+    ],
+    "originId": "https://techcrunch.com/?p=1864416",
+    "fingerprint": "d01a4103",
+    "content": {
+        "content": "<p>“Years and Years” is an unusual show. It’s a co-production of <a data-entity=\"hbo\" href=\"https://crunchbase.com/organization/hbo\" data-type=\"organization\" target=\"_blank\">HBO <span></span></a> and the BBC, and in the course of six hourlong episodes, it covers a span of more than 10 years in our near future.</p>\n<p>During that time, we see the rise of a terrifying Trump-style politician in the United Kingdom named Vivian Rook (played by Emma Thompson), along with lots more political, economic and technological upheaval. All of this is seen through the eyes of Manchester’s Lyons family — grandmother Muriel and adult siblings Rory, Edith, Daniel and Rosie, plus their spouses and children.</p>\n<p>No one in the family is a major power player; they simply watch everything change with a growing sense of dread. That, in large part, is what makes the show effective — it feels true to the experience of trying to get on with your life while the world shifts around you.</p>\n<p>On the latest episode of <a href=\"https://podcasts.apple.com/us/podcast/original-content/id1271763098\">the Original Content podcast</a>, we spend the entire hour reviewing the show. We had some reservations about the finale — which seemed to abandon the strengths of the previous episodes — but even so, we were impressed by the series, and by the way it brought so many of our fears to life.</p>\n<p>You can listen in the player below, <a rel=\"noopener noreferrer\" href=\"https://podcasts.apple.com/us/podcast/original-content/id1271763098\" target=\"_blank\">subscribe using Apple Podcasts</a> or find us in your podcast player of choice. If you like the show, please let us know by leaving a review on Apple. You can also <a rel=\"noopener noreferrer\" href=\"https://techcrunch.com/2019/08/03/original-content-years-and-years/“mailto:originalcontent@techcrunch.com%22\" target=\"_blank\">send us feedback directly</a>. (Or suggest shows and movies for us to review!)</p>\n<p>And if you want to skip ahead, here’s how the episode breaks down:</p>\n<p>0:00 Intro<br>\n0:23 “Years and Years” review<br>\n30:07 “Years and Years” spoiler discussion</p>\n<p><iframe src=\"https://player.simplecast.com/e11b33f0-38e7-4208-b01c-c08ebcc65f83?dark=false\" width=\"100%\" height=\"200px\"></iframe></p>\n<div>\n<a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=MUwqdBEwfe0:NPoGNwbkxFs:2mJPEYqXBVI\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=MUwqdBEwfe0:NPoGNwbkxFs:7Q72WNTAKBA\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=MUwqdBEwfe0:NPoGNwbkxFs:yIl2AUoC8zA\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=MUwqdBEwfe0:NPoGNwbkxFs:-BTjWOF_DHI\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?i=MUwqdBEwfe0:NPoGNwbkxFs:-BTjWOF_DHI\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=MUwqdBEwfe0:NPoGNwbkxFs:D7DqB2pKExk\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?i=MUwqdBEwfe0:NPoGNwbkxFs:D7DqB2pKExk\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=MUwqdBEwfe0:NPoGNwbkxFs:qj6IDK7rITs\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs\"></a>\n</div><img width=\"1\" alt=\"\" src=\"http://feeds.feedburner.com/~r/Techcrunch/~4/MUwqdBEwfe0\" height=\"1\">",
+        "direction": "ltr"
     },
-    {
-      "id":"123456",
-      "publisher_icon_url":"https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-1/p50x50/12289622_10154246192721509_1897912583584847639_n.png?_nc_cat=1&_nc_oc=AQnA0krvwDT9qGSVrGFRleQFz2U6snJyMBQj5g5cR8PdV5vOncrGCFruHGhtN9u2IS8&_nc_ht=scontent-lax3-1.xx&oh=27fe521e3586dd7fa28912c0fbf8102d&oe=5DA51DDF",
-      "publisher":"CNN",
-      "publisher_url":"https://www.cnn.com/",
-      "posted_at":"2019-08-01T23:01:00Z",
-      "post_title":"Pilot makes emergency landing on highway - all captured on trooper's dashcam",
-      "post_image_url":"https://external-lax3-1.xx.fbcdn.net/safe_image.php?d=AQBRduJh4CTxH0ZY&w=540&h=282&url=https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190801170556-washington-plane-emergency-landing-super-tease.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDi8AEdLyhCfYXz%22",
-      "post_snippet":"The trooper turned on his emergency lights to block traffic to help the plane land. His dashcam captured the plane thundering down the road and stopping at a red light, just like the cars on the road.",
-      "post_source_url":"https://www.cnn.com/2019/08/01/us/washington-plane-landing-trnd/index.html",
-      "post_reactions":"165",
-      "post_shares":"38",
-      "post_comments":"36"
-    }
-  ]
-}
+    "title": "Original Content podcast: ‘Years and Years’ takes an unsettling look at the next decade",
+    "author": "Anthony Ha",
+    "summary": {
+        "content": "“Years and Years” is an unusual show. It’s a co-production of HBO and the BBC, and in the course of six hourlong episodes, it covers a span of more than 10 years in our near future. During that time, we see the rise of a terrifying Trump-style politician in the United Kingdom named Vivian Rook...",
+        "direction": "ltr"
+    },
+    "alternate": [
+        {
+            "href": "http://feedproxy.google.com/~r/Techcrunch/~3/MUwqdBEwfe0/",
+            "type": "text/html"
+        }
+    ],
+    "canonical": [
+        {
+            "href": "https://techcrunch.com/2019/08/03/original-content-years-and-years/",
+            "type": "text/html"
+        }
+    ],
+    "crawled": 1564873705351,
+    "published": 1564866002000,
+    "origin": {
+        "streamId": "feed/http://feeds.feedburner.com/Techcrunch",
+        "title": "TechCrunch",
+        "htmlUrl": "https://techcrunch.com"
+    },
+    "visual": {
+        "url": "none"
+    },
+    "unread": true,
+    "categories": [
+        {
+            "id": "user/ba430eda-8152-46f2-b937-a695e3d84777/category/Tech",
+            "label": "Tech"
+        }
+    ],
+    "commonTopics": [
+        {
+            "score": 54.84658739669757,
+            "id": "nlp/f/topic/3009",
+            "salienceLevel": "about",
+            "label": "music"
+        },
+        {
+            "score": 0.852,
+            "id": "nlp/f/topic/682",
+            "salienceLevel": "about",
+            "label": "documentaries"
+        },
+        {
+            "score": 0.71,
+            "id": "nlp/f/topic/1078",
+            "salienceLevel": "mention",
+            "label": "home theater"
+        }
+    ],
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": "Emma Thompson"
+                }
+            ],
+            "id": "nlp/f/entity/wd:168724",
+            "salienceLevel": "about",
+            "label": "Emma Thompson"
+        },
+        {
+            "mentions": [
+                {
+                    "text": "United Kingdom"
+                }
+            ],
+            "id": "nlp/f/entity/wd:145",
+            "salienceLevel": "mention",
+            "label": "United Kingdom"
+        }
+    ],
+    "engagement": 152,
+    "engagementRate": 0.66
+  },
+  {
+      "id": "Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_16c5910f90e:16b7d46:fb35c184",
+      "keywords": [
+          "The Extra Crunch Daily",
+          "AWS",
+          "Boundless",
+          "E8",
+          "ray dalio",
+          "xiao wang"
+      ],
+      "originId": "https://techcrunch.com/?p=1864412",
+      "fingerprint": "58cf2026",
+      "content": {
+          "content": "<h2>What founders need to know about pro rata rights</h2>\n<p>Pro rata used to be reasonably simple. Venture investors who bought preferred shares in startups had the right to lock in a certain percentage of equity provided they continued funding the company in the future rounds of financing. But as VCs have raised ever larger funds and cap tables have become ever more congested, who gets pro rata — and who keeps it — has become a massive distraction for many founders during their fundraises.</p>\n<p><b>Andy Sparks</b>, the founder of <b>Holloway Guides</b> (which, as my co-editor <b>Eric Eldon</b> wrote this week, <a href=\"https://techcrunch.com/2019/08/01/holloway-launches-in-depth-startup-guides-aims-to-rewrite-publishing-with-4-6m-from-nyt-top-tech-investors/\">raised $4.6 million</a> from the <b>New York Times</b> and others), <a href=\"https://techcrunch.com/2019/08/01/what-founders-need-to-know-about-pro-rata-rights/\">writes in with an analysis of pro rata rights</a> from the latest <a href=\"https://www.holloway.com/rvc\">Holloway Guide on Raising Venture Capital</a>. We are really digging this new model of covering the issues affecting startups, and wish Sparks and his team well in their endeavor.</p>\n<blockquote><p>Pro rata is Latin for “in proportion.” Most people are familiar with the concept of <i>prorating</i> from dealing with landlords: if you’re entering into a lease halfway through the month, your rent may be prorated, where you pay an amount of the rent that is in proportion to your time actually occupying the property.</p>\n<p>Almost all investors try to negotiate for pro rata rights, because if a company is doing well they want to own as much of it as possible. After all, why not double down on a winner than use that same money to invest in a newer, unproven company? In the 2018–2019 fundraising climate, though, it’s safe to say we’re at “peak pro rata.” Everybody wants pro rata, even those who don’t entirely understand how it works or affects companies.</p></blockquote>\n<p><a href=\"http://link.techcrunch.com/join/134/signup-all-newsletters\"><img sizes=\"(max-width: 680px) 100vw, 680px\" src=\"https://techcrunch.com/wp-content/uploads/2019/04/extra-crunch-roundup-newsletter-banner.png?w=680\" alt=\"\" width=\"680\" srcset=\"https://techcrunch.com/wp-content/uploads/2019/04/extra-crunch-roundup-newsletter-banner.png 1920w, https://techcrunch.com/wp-content/uploads/2019/04/extra-crunch-roundup-newsletter-banner.png?resize=150,42 150w, https://techcrunch.com/wp-content/uploads/2019/04/extra-crunch-roundup-newsletter-banner.png?resize=300,84 300w, https://techcrunch.com/wp-content/uploads/2019/04/extra-crunch-roundup-newsletter-banner.png?resize=768,216 768w, https://techcrunch.com/wp-content/uploads/2019/04/extra-crunch-roundup-newsletter-banner.png?resize=680,191 680w, https://techcrunch.com/wp-content/uploads/2019/04/extra-crunch-roundup-newsletter-banner.png?resize=50,14 50w\" class=\"wp-image-1811271\" height=\"191\"></a></p>\n<h2>Which immigration headlines should you care about?</h2>\n<p>Every day in the United States, immigration issues dominate the headlines. That can be very taxing for startups, which are often founded by immigrant entrepreneurs and often have sizable immigrant employee bases as well. So which stories should you pay attention to and which stories can you ignore and live in blissful ignorance?</p>\n<p><div></div><div>\n<a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=AsPv6X9E-hs:99qsmOAHhYI:2mJPEYqXBVI\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=AsPv6X9E-hs:99qsmOAHhYI:7Q72WNTAKBA\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=AsPv6X9E-hs:99qsmOAHhYI:yIl2AUoC8zA\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=AsPv6X9E-hs:99qsmOAHhYI:-BTjWOF_DHI\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?i=AsPv6X9E-hs:99qsmOAHhYI:-BTjWOF_DHI\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=AsPv6X9E-hs:99qsmOAHhYI:D7DqB2pKExk\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?i=AsPv6X9E-hs:99qsmOAHhYI:D7DqB2pKExk\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=AsPv6X9E-hs:99qsmOAHhYI:qj6IDK7rITs\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs\"></a>\n</div><img width=\"1\" alt=\"\" src=\"http://feeds.feedburner.com/~r/Techcrunch/~4/AsPv6X9E-hs\" height=\"1\">",
+          "direction": "ltr"
+      },
+      "title": "Pro rata rights, immigration, the sharing economy, AWS, Ray Dalio, and China’s smartphones",
+      "author": "Danny Crichton",
+      "summary": {
+          "content": "What founders need to know about pro rata rights Pro rata used to be reasonably simple. Venture investors who bought preferred shares in startups had the right to lock in a certain percentage of equity provided they continued funding the company in the future rounds of financing. But as VCs have raised ever larger funds...",
+          "direction": "ltr"
+      },
+      "alternate": [
+          {
+              "href": "http://feedproxy.google.com/~r/Techcrunch/~3/AsPv6X9E-hs/",
+              "type": "text/html"
+          }
+      ],
+      "canonical": [
+          {
+              "href": "https://techcrunch.com/2019/08/03/pro-rata-rights-immigration-the-sharing-economy-aws-ray-dalio-and-chinas-smartphones/",
+              "type": "text/html"
+          }
+      ],
+      "crawled": 1564862380302,
+      "published": 1564862356000,
+      "origin": {
+          "streamId": "feed/http://feeds.feedburner.com/Techcrunch",
+          "title": "TechCrunch",
+          "htmlUrl": "https://techcrunch.com"
+      },
+      "visual": {
+          "processor": "feedly-nikon-v3.1",
+          "url": "https://techcrunch.com/wp-content/uploads/2019/04/extra-crunch-roundup-newsletter-banner.png",
+          "width": 1920,
+          "height": 540,
+          "contentType": "image/png"
+      },
+      "unread": true,
+      "categories": [
+          {
+              "id": "user/ba430eda-8152-46f2-b937-a695e3d84777/category/Tech",
+              "label": "Tech"
+          }
+      ],
+      "commonTopics": [
+          {
+              "score": 27.527041673988016,
+              "id": "nlp/f/topic/3056",
+              "salienceLevel": "about",
+              "label": "christianity"
+          },
+          {
+              "score": 0.941,
+              "id": "nlp/f/topic/2397",
+              "salienceLevel": "about",
+              "label": "vc"
+          },
+          {
+              "score": 0.903,
+              "id": "nlp/f/topic/779",
+              "salienceLevel": "about",
+              "label": "entrepreneurship"
+          },
+          {
+              "score": 0.852,
+              "id": "nlp/f/topic/737",
+              "salienceLevel": "about",
+              "label": "editing"
+          }
+      ],
+      "entities": [
+          {
+              "mentions": [
+                  {
+                      "text": "Ray Dalio"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:7297378",
+              "salienceLevel": "about",
+              "label": "Ray Dalio"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "preferred shares"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:622588",
+              "salienceLevel": "mention",
+              "label": "preferred stock"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "The New York Times"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:9684",
+              "salienceLevel": "mention",
+              "label": "The New York Times"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "the United States"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:30",
+              "salienceLevel": "mention",
+              "label": "United States of America"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "Latin"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:397",
+              "salienceLevel": "mention",
+              "label": "Latin"
+          }
+      ],
+      "engagement": 173,
+      "engagementRate": 0.69
+  },
+  {
+      "id": "Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_16c58579897:116c06:25888a06",
+      "keywords": [
+          "Automotive",
+          "charging stations",
+          "Elon Musk",
+          "Tesla",
+          "Tesla Model S"
+      ],
+      "originId": "https://techcrunch.com/?p=1864398",
+      "fingerprint": "d34d3ec4",
+      "content": {
+          "content": "<p><a data-entity=\"tesla-motors\" href=\"https://crunchbase.com/organization/tesla-motors\" data-type=\"organization\" target=\"_blank\">Tesla <span></span></a> is resurrecting a popular benefit that CEO <a data-entity=\"elon-musk\" href=\"https://crunchbase.com/person/elon-musk\" data-type=\"person\" target=\"_blank\">Elon Musk <span></span></a> once called “unsustainable” as it attempts to boost sales of its more expensive electric vehicles.</p>\n<p>Tesla announced Saturday that all new Model S sedans and Model X SUVs will come with free unlimited access to its network of electric vehicle chargers known as superchargers.</p>\n<p>The move comes on the heels of a second quarter of <a href=\"https://techcrunch.com/2019/07/24/tesla-reports-larger-than-expected-losses-of-408-million-in-second-quarter/\">wider-than-expected losses</a> of $408 million despite record deliveries of its electric vehicles.</p>\n<p>The automaker reported in July it delivered a record <a href=\"https://techcrunch.com/2019/07/02/tesla-sets-new-delivery-record-of-95200-electric-vehicles/\">95,200 of its electric vehicles</a> in the second quarter, a dramatic reversal from a disappointing first period. The company generated $6.3 billion in revenue in the second quarter from those sales, the bulk of which came from its lower margin and less expensive Model 3 vehicles.</p>\n<p>Meanwhile, sales of the Model S and Model X have slowed. Of its 95,200 deliveries, just 17,650 were Model S and X vehicles. Tesla doesn’t separate delivery or production figures for the S and X.</p>\n<div>\n<blockquote data-width=\"550\" class=\"twitter-tweet\" data-dnt=\"true\">\n<p lang=\"en\" dir=\"ltr\">BREAKING: All new Model S and Model X orders now come with <img alt=\"⚡\" src=\"https://s.w.org/images/core/emoji/12.0.0-1/72x72/26a1.png\" class=\"wp-smiley\"> free <img alt=\"⚡\" src=\"https://s.w.org/images/core/emoji/12.0.0-1/72x72/26a1.png\" class=\"wp-smiley\"> unlimited <img alt=\"⚡\" src=\"https://s.w.org/images/core/emoji/12.0.0-1/72x72/26a1.png\" class=\"wp-smiley\"> Supercharging <img alt=\"⚡\" src=\"https://s.w.org/images/core/emoji/12.0.0-1/72x72/26a1.png\" class=\"wp-smiley\"></p>\n<p>— Tesla (@Tesla) <a href=\"https://twitter.com/Tesla/status/1157673131084902401?ref_src=twsrc%5Etfw\">August 3, 2019</a></p></blockquote>\n<p></div>\n<p>In its early days, free unlimited supercharging was part of the package of buying a Tesla vehicle.</p>\n<p>Tesla began phasing out free unlimited access to its supercharger network when it announced that customers who buy cars after January 1, 2017 will have 400 kilowatt-hours, or about 1,000 miles, of free charging every year. Once owners surpassed that amount, they would be charged a small fee.</p>\n<div>\n<blockquote data-width=\"550\" class=\"twitter-tweet\" data-dnt=\"true\">\n<p lang=\"en\" dir=\"ltr\">Will see what we can do. Really need to bring this program to an end while being as fair as possible. It’s not sustainable long-term.</p>\n<p>— E (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/1041798613628678144?ref_src=twsrc%5Etfw\">September 17, 2018</a></p></blockquote>\n<p></div>\n<p>Tesla then narrowed the free unlimited access to superchargers through a referral program and only to buyers of performance versions of the Model S, Model X and Model 3. The free unlimited supercharger <a href=\"https://www.tesla.com/support/referral-program?redirect=no\">referral program</a> is now set to end September 18.</p>\n<p>Musk has brought back the perk several times since to drive sales.</p>\n<p>It’s unclear how long this latest offer will last. The company has been tinkering with its pricing structure, vehicle configurations and rewards programs, with changes occurring monthly.</p>\n<div>\n<a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=NfvgHbab1AM:h2I9FiJ2rrY:2mJPEYqXBVI\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=NfvgHbab1AM:h2I9FiJ2rrY:7Q72WNTAKBA\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=NfvgHbab1AM:h2I9FiJ2rrY:yIl2AUoC8zA\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=NfvgHbab1AM:h2I9FiJ2rrY:-BTjWOF_DHI\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?i=NfvgHbab1AM:h2I9FiJ2rrY:-BTjWOF_DHI\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=NfvgHbab1AM:h2I9FiJ2rrY:D7DqB2pKExk\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?i=NfvgHbab1AM:h2I9FiJ2rrY:D7DqB2pKExk\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=NfvgHbab1AM:h2I9FiJ2rrY:qj6IDK7rITs\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs\"></a>\n</div><img width=\"1\" alt=\"\" src=\"http://feeds.feedburner.com/~r/Techcrunch/~4/NfvgHbab1AM\" height=\"1\">",
+          "direction": "ltr"
+      },
+      "title": "Tesla brings back free unlimited supercharging for the Model S and X",
+      "author": "Kirsten Korosec",
+      "summary": {
+          "content": "Tesla is resurrecting a popular benefit that CEO Elon Musk once called “unsustainable” as it attempts to boost sales of its more expensive electric vehicles. Tesla announced Saturday that all new Model S sedans and Model X SUVs will come with free unlimited access to its network of electric vehicle chargers known as superchargers. The […]",
+          "direction": "ltr"
+      },
+      "alternate": [
+          {
+              "href": "http://feedproxy.google.com/~r/Techcrunch/~3/NfvgHbab1AM/",
+              "type": "text/html"
+          }
+      ],
+      "canonical": [
+          {
+              "href": "https://techcrunch.com/2019/08/03/tesla-brings-back-free-unlimited-supercharging-for-the-model-s-and-x/",
+              "type": "text/html"
+          }
+      ],
+      "crawled": 1564850231447,
+      "published": 1564850216000,
+      "origin": {
+          "streamId": "feed/http://feeds.feedburner.com/Techcrunch",
+          "title": "TechCrunch",
+          "htmlUrl": "https://techcrunch.com"
+      },
+      "visual": {
+          "processor": "feedly-nikon-v3.1",
+          "url": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-490597690.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "contentType": "image/jpeg"
+      },
+      "unread": true,
+      "categories": [
+          {
+              "id": "user/ba430eda-8152-46f2-b937-a695e3d84777/category/Tech",
+              "label": "Tech"
+          }
+      ],
+      "commonTopics": [
+          {
+              "score": 103.99529146461397,
+              "id": "nlp/f/topic/3049",
+              "salienceLevel": "about",
+              "label": "automotive"
+          },
+          {
+              "score": 0.992,
+              "id": "nlp/f/topic/809",
+              "salienceLevel": "about",
+              "label": "ev"
+          },
+          {
+              "score": 0.957,
+              "id": "nlp/f/topic/772",
+              "salienceLevel": "about",
+              "label": "energy"
+          },
+          {
+              "score": 0.948,
+              "id": "nlp/f/topic/2041",
+              "salienceLevel": "about",
+              "label": "self driving cars"
+          }
+      ],
+      "entities": [
+          {
+              "mentions": [
+                  {
+                      "text": "Tesla"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:478214",
+              "salienceLevel": "about",
+              "label": "Tesla"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "Model S"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:1463050",
+              "salienceLevel": "about",
+              "label": "Tesla Model S"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "Musk"
+                  },
+                  {
+                      "text": "Elon Musk"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:317521",
+              "salienceLevel": "mention",
+              "label": "Elon Musk"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "Model 3"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:23663332",
+              "salienceLevel": "mention",
+              "label": "Tesla Model 3"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "electric vehicle"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:13629441",
+              "salienceLevel": "mention",
+              "label": "electric vehicle"
+          }
+      ],
+      "engagement": 850,
+      "engagementRate": 3.05,
+      "memes": [
+          {
+              "id": "topic/tech_en/meme/b29604a6-b65b-11e9-baa8-0a580a0c0327",
+              "score": 0.6208087240907839,
+              "label": "Tesla Model S X M. Minor"
+          },
+          {
+              "id": "topic/tech_en/meme/6e31c5a2-b4f3-11e9-a0b9-0a580a0c0327",
+              "score": 0.8724021924338093,
+              "label": "Tesla Elon Musk BC"
+          }
+      ]
+  },
+  {
+      "id": "Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_16c58579897:116c05:25888a06",
+      "keywords": [
+          "Column",
+          "amanda hearst",
+          "bangladesh",
+          "China",
+          "Clothing",
+          "Culture",
+          "energy",
+          "Fashion",
+          "gucci",
+          "H&M",
+          "Human Rights Watch",
+          "modern meadow",
+          "oil",
+          "Old Navy"
+      ],
+      "originId": "https://techcrunch.com/?p=1862263",
+      "fingerprint": "8ca8b522",
+      "content": {
+          "content": "<div>\n<div>\n<div>\n<span>Brian Kateman</span>\n<span>Contributor</span>\n</div>\n<div>\n<a href=\"https://twitter.com/reducetarian\" target=\"_blank\">\n\n</a>\n</div>\n</div>\n<div>\nBrian Kateman is President and Cofounder of the <a href=\"https://reducetarian.org/\">Reducetarian Foundation</a>.\t</div>\n<div>\n<span>More posts by this contributor</span>\n<ul>\n<li><a href=\"https://techcrunch.com/2019/07/07/fish-replacement-may-be-the-next-big-wave-in-alternative-protein-development/\">Fish replacement may be the next big wave in alternative protein development</a></li>\n</ul>\n</div>\n</div>\n<p dir=\"ltr\">The fashion industry has historically relied on exploitative, unsustainable and unethical labor practices in order to sell clothes — but if recent trends are any indication, it won’t for much longer. Over the last several years, the industry has entered a remarkable period of upheaval, with major and small fashion brands alike ditching traditional methods of production in favor of eco-friendly and cruelty-free alternatives. It’s a welcome, long-overdue development, and it’s showing no signs of slowing down.</p>\n<p dir=\"ltr\">Tradition fashion is unethical in almost too many ways to count. There is, of course, the monstrous toll on animal life. Every year, <a rel=\"noopener noreferrer\" href=\"https://www.lcanimal.org/index.php/campaigns/fur/fur-trade-facts\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.lcanimal.org/index.php/campaigns/fur/fur-trade-facts&amp;source=gmail&amp;ust=1564588756180000&amp;usg=AFQjCNG0nAnUtjpl-R9ogQqSgfVKSpGP7g\" target=\"_blank\">over one billion animals are slaughtered</a> for their fur or pelts, usually after living their lives in horrific factory farms.</p>\n<p dir=\"ltr\">Cows, including newborn and even unborn calves, <a rel=\"noopener noreferrer\" href=\"https://www.theguardian.com/lifeandstyle/2008/aug/27/ethicalfashion.leather\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.theguardian.com/lifeandstyle/2008/aug/27/ethicalfashion.leather&amp;source=gmail&amp;ust=1564588756180000&amp;usg=AFQjCNFEeCiohM042pptMzHt27qjG0cvug\" target=\"_blank\">are skinned alive in order to make leather</a>, while animals killed for their fur are executed through anal electrocution, neck-snapping, drowning and other ghastly ways in order to avoid damaging their pelts. Even wool, traditionally perceived as a more humanely-produced animal product, <a rel=\"noopener noreferrer\" href=\"https://www.theguardian.com/world/2014/jul/11/sheep-cruelty-video-sparks-rspca-investigation\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.theguardian.com/world/2014/jul/11/sheep-cruelty-video-sparks-rspca-investigation&amp;source=gmail&amp;ust=1564588756180000&amp;usg=AFQjCNE4q_WSSKZ8vzJK2KCtVmX3DdkGsA\" target=\"_blank\">involves horrors on par</a> with those at a slaughterhouse.</p>\n<p dir=\"ltr\">But animals aren’t the only ones who suffer under the traditional fashion industry. In Cambodian garment factories, which <a rel=\"noopener noreferrer\" href=\"https://www.hrw.org/report/2015/03/11/work-faster-or-get-out/labor-rights-abuses-cambodias-garment-industry\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.hrw.org/report/2015/03/11/work-faster-or-get-out/labor-rights-abuses-cambodias-garment-industry&amp;source=gmail&amp;ust=1564588756180000&amp;usg=AFQjCNGhwlPZIBRELFbffVMKZwg_MC-VSg\" target=\"_blank\">export around $5.7 billion in clothes</a> every year, <a rel=\"noopener noreferrer\" href=\"https://www.salon.com/2015/03/22/the_slave_labor_behind_your_favorite_clothing_brands_gap_hm_and_more_exposed_partner/\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.salon.com/2015/03/22/the_slave_labor_behind_your_favorite_clothing_brands_gap_hm_and_more_exposed_partner/&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNHUmmMCKGq3JPzTelNvEh6c8eRyaQ\" target=\"_blank\">workers earning 50 cents an hour</a> are forced to sit for 11 hours a day straight without using the restroom, according to Human Rights Watch.</p>\n<p dir=\"ltr\"><a rel=\"noopener noreferrer\" href=\"https://www.theguardian.com/business/2017/jun/25/female-cambodian-garment-workers-mass-fainting\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.theguardian.com/business/2017/jun/25/female-cambodian-garment-workers-mass-fainting&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNHoxbFUABitQH6kXo6KQrm1XC2iYA\" target=\"_blank\">Mass faintings in oppressively hot factories</a> are common, and workers are routinely fired for getting sick or pregnant. In Bangladesh — the world’s <a rel=\"noopener noreferrer\" href=\"https://www.scmp.com/topics/bangladesh-garment-industry\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.scmp.com/topics/bangladesh-garment-industry&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNEteGL5dPZNeAHwA4MsoMKJlQMxyQ\" target=\"_blank\">second-largest importer of apparel</a> behind China — a poorly-maintained garment factory collapsed in 2013, killing 1,132 people and injuring around 2,000 others. When Cambodian garment workers protested in 2014 for better working conditions, <a rel=\"noopener noreferrer\" href=\"https://www.bbc.com/news/world-asia-25585054\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.bbc.com/news/world-asia-25585054&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNHZrmzuJS4qd_6KQOZHg4LLwYyLrQ\" target=\"_blank\">police shot and killed three of them</a>.</p>\n<p dir=\"ltr\">Lastly, traditional fashion is killing the planet. Every year, the textile industry alone spits out <a rel=\"noopener noreferrer\" href=\"https://www.ellenmacarthurfoundation.org/assets/downloads/publications/A-New-Textiles-Economy_Summary-of-Findings_Updated_1-12-17.pdf\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.ellenmacarthurfoundation.org/assets/downloads/publications/A-New-Textiles-Economy_Summary-of-Findings_Updated_1-12-17.pdf&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNGZchDP19S74SbKctR5JKLvX3_tQA\" target=\"_blank\">1.2 billion tons of greenhouse gases</a> — more than all marine shipping vessels and international flights combined — and consumes 98 million tons of oil. <a rel=\"noopener noreferrer\" href=\"https://www.independent.co.uk/life-style/fashion/environment-costs-fast-fashion-pollution-waste-sustainability-a8139386.html\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.independent.co.uk/life-style/fashion/environment-costs-fast-fashion-pollution-waste-sustainability-a8139386.html&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNG2N6UNxp_YexOT9-zhnoAi6sWscw\" target=\"_blank\">Textile dyeing is the second-largest polluter</a> of clean water, and on the whole, the apparel industry accounts for 10 percent of all greenhouse emissions worldwide. Worst of all, the clothes produced by this massive resource consumption produces clothes are rapidly discarded: In 2015, 73 percent of the total material used to make clothes ended up incinerated or landfilled, according to a study by the Ellen MacArthur foundation.</p>\n<p dir=\"ltr\">Thankfully, as big and small clothing manufacturers alike are realizing, there are plenty of ways to sell fashionable clothing and accessories that don’t destroy the environment, endanger workers, or cause suffering to animals.</p>\n<p dir=\"ltr\">Vegan clothes are becoming increasingly popular, and there’s no shortage of them to choose from. Some brands, like <a rel=\"noopener noreferrer\" href=\"https://keepcompany.com/\" data-saferedirecturl=\"https://www.google.com/url?q=https://keepcompany.com&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNH67NJon-B3Qy9yYCU45bm6Y3tqTg\" target=\"_blank\">Keep Company</a> and <a rel=\"noopener noreferrer\" href=\"https://unicorngoods.com/\" data-saferedirecturl=\"https://www.google.com/url?q=https://unicorngoods.com&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNHHrXe2cYz9SXmNzcmSxe-1f82liA\" target=\"_blank\">Unicorn Goods</a>, offer an expansive generalized catalogue of vegan shirts, jackets, accessories and more. Other brands are more specialized: <a rel=\"noopener noreferrer\" href=\"https://unrealfur.com/\" data-saferedirecturl=\"https://www.google.com/url?q=https://unrealfur.com&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNHE1kCI7a-thOtscBQ-AHblYplxvQ\" target=\"_blank\">Unreal Fur has a beautiful line</a> of vegan faux-fur, <a rel=\"noopener noreferrer\" href=\"https://en.useahimsa.com/\" data-saferedirecturl=\"https://www.google.com/url?q=https://en.useahimsa.com&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNFrBJdobtBMylgOgpEtDvTDk3I2ew\" target=\"_blank\">Ahisa</a>, <a rel=\"noopener noreferrer\" href=\"https://www.beyond-skin.com/\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.beyond-skin.com&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNGtZ0amzsUO78_QoKzb7acwfBvHxQ\" target=\"_blank\">Beyond Skin</a> and <a rel=\"noopener noreferrer\" href=\"https://susistudio.com/\" data-saferedirecturl=\"https://www.google.com/url?q=https://susistudio.com&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNEBas9-z-24oJ2l11OIetrV0Y0LVA\" target=\"_blank\">SUSI Studio</a> all sell stylish vegan shoes, and <a rel=\"noopener noreferrer\" href=\"https://www.lebuns.com.au/sustainable-values\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.lebuns.com.au/sustainable-values&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNGiPs5EHYsrDsEyjxwf-Quef6wZ-Q\" target=\"_blank\">Le Buns specializes in vegan swimwear</a>. There are upscale vegan clothing retailers, such as <a rel=\"noopener noreferrer\" href=\"https://www.bravegentleman.com/\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.bravegentleman.com&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNGPEQ7JsR6c2hyWK39plsD-2IFmZg\" target=\"_blank\">Brave Gentleman</a>, as well as more casual budget options, like <a rel=\"noopener noreferrer\" href=\"https://thethirdestate.co.uk/m-clothing/?sort=newest\" data-saferedirecturl=\"https://www.google.com/url?q=https://thethirdestate.co.uk/m-clothing/?sort%3Dnewest&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNGQJqteDn3R3oISCsWxyd6N0xgsGg\" target=\"_blank\">The Third Estate</a>.</p>\n<p dir=\"ltr\">Strict veganism isn’t the only way to manufacture clothing ethically. Hipsters For Sisters’ products are made entirely with <a rel=\"noopener noreferrer\" href=\"https://www.hfscollective.com/sustainable-materials-glossary\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.hfscollective.com/sustainable-materials-glossary&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNFLVFtzG7MOBvnjmP94xBjJ_oLatg\" target=\"_blank\">recycled, upcycled, or deadstocked</a> materials, earning the approval of PETA. <a rel=\"noopener noreferrer\" href=\"https://www.thereformation.com/pages/carbon-is-canceled\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.thereformation.com/pages/carbon-is-canceled&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNHsVP6PISff3rYUPp5HZsrJmSCopQ\" target=\"_blank\">Reformation utilizes a carbon-neutral production process</a> to make its clothes (and offers customers a $100 store credit if they switch to wind energy), while <a rel=\"noopener noreferrer\" href=\"https://www.stellamccartney.com/experience/en/sustainability/themes/respect-for-animals/\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.stellamccartney.com/experience/en/sustainability/themes/respect-for-animals/&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNGBF8FmUfL7veVlzmWVh11Ka1UJ1g\" target=\"_blank\">Stella McCartney’s entire product line is vegetarian</a>.</p>\n<p><div class=\"wp-caption\"><img sizes=\"(max-width: 5197px) 100vw, 5197px\" src=\"https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-978108544.jpg\" alt=\"GettyImages 978108544\" width=\"5197\" title=\"FASHION-ITALY-STELLLA-MCCARTNEY\" srcset=\"https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-978108544.jpg 5197w, https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-978108544.jpg?resize=150,100 150w, https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-978108544.jpg?resize=300,200 300w, https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-978108544.jpg?resize=768,512 768w, https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-978108544.jpg?resize=680,453 680w, https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-978108544.jpg?resize=50,33 50w\" class=\"wp-image-1862574\" height=\"3464\"><p class=\"wp-caption-text\">British fashion designer Stella McCartney poses prior her presentation during the men and women’s spring/summer 2019 collection fashion show in Milan, on June 18, 2018. (Photo by MIGUEL MEDINA / AFP) (Photo credit should read MIGUEL MEDINA/AFP/Getty Images)</p></div>\n<p dir=\"ltr\">Many vegan clothing companies, such as <a rel=\"noopener noreferrer\" href=\"https://inthesoulshine.com/pages/sustainability\" data-saferedirecturl=\"https://www.google.com/url?q=https://inthesoulshine.com/pages/sustainability&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNH-Zgf0XP9AEPxGdNlUM5rD1e6NZA\" target=\"_blank\">In The Soulshine</a> and <a rel=\"noopener noreferrer\" href=\"https://www.dellala.com/collections/clothing\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.dellala.com/collections/clothing&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNER4Asq7mfO_CcBPAgP51HEx-fr2g\" target=\"_blank\">Della</a>, have found ways to sell cruelty-free clothing while also providing humane working conditions to their factories’ workers. Amanda Hearst’s Maison de Mode features a combination of Fair Trade, recycled, cruelty-free, and organic products — as well as a <a rel=\"noopener noreferrer\" href=\"https://maison-de-mode.com/pages/sustainability\" data-saferedirecturl=\"https://www.google.com/url?q=https://maison-de-mode.com/pages/sustainability&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNGnxqKvAu09g14a5VTuaA04nXZaBA\" target=\"_blank\">comprehensive labeling system to inform customers</a> which is which.</p>\n<p dir=\"ltr\">There are plenty of small, niche companies offering ethical clothing options, but make no mistake: The transition to sustainable and ethical fashion is an industry-wide phenomenon. Well-established brands like <a rel=\"noopener noreferrer\" href=\"https://www.drmartens.com/us/en/p/23985600\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.drmartens.com/us/en/p/23985600&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNEr8ImOmlML1zhoyOWWdR7NrcQOCw\" target=\"_blank\">Dr. Marten’s</a>, Old Navy, H&amp;M and <a rel=\"noopener noreferrer\" href=\"https://www.livekindly.com/vegan-zara-guide-cruelty-free/\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.livekindly.com/vegan-zara-guide-cruelty-free/&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNHj_qvOBbjDZVU7UCwKJ2tzmKi0uQ\" target=\"_blank\">Zara</a> all now sell vegan clothes. Gap, Gucci, and Hugo Boss have banned fur from their stores, and three of the largest fashion conglomerates — H&amp;M Group, Arcadia Group and Inditex — recently pledged to <a rel=\"noopener noreferrer\" href=\"https://vegnews.com/2018/5/handampm-group-to-ban-mohair-by-2020\" data-saferedirecturl=\"https://www.google.com/url?q=https://vegnews.com/2018/5/handampm-group-to-ban-mohair-by-2020&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNHwYYam67xfT3NgekxCN47dIc2SZg\" target=\"_blank\">stop selling mohair products</a> by 2020.</p>\n<p dir=\"ltr\">Companies are rapidly investing in new ethical alternatives to traditional clothing as well: <a rel=\"noopener noreferrer\" href=\"https://savetheduckusa.com/pages/plumtech\" data-saferedirecturl=\"https://www.google.com/url?q=https://savetheduckusa.com/pages/plumtech&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNGzDbivrfiYKR78bHFUwH9zbrUJiQ\" target=\"_blank\">Save The Duck’s PLUMTECH</a> jackets feature a cruelty-free alternative to down feathers, while <a rel=\"noopener noreferrer\" href=\"http://www.modernmeadow.com/our-technology/\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.modernmeadow.com/our-technology/&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNF8JIf0bK-3aBlXJFxHWKmqso3z2g\" target=\"_blank\">companies like Modern Meadow</a> are developing new biofabricated leather made from collagen protein and other essential building blocks found in animal skin that don’t require the slaughter of any animals.</p>\n<p dir=\"ltr\">There are, of course, some holdouts. Canada Goose still traps and kills coyotes to make its fur jackets, and uses a device that’s been <a rel=\"noopener noreferrer\" href=\"https://www.newsweek.com/are-canada-goose-jackets-unethical-controversy-explained-1329557\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.newsweek.com/are-canada-goose-jackets-unethical-controversy-explained-1329557&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNEsT4_HnIS37WmOH1g09mEQxkMXvg\" target=\"_blank\">banned in dozens of countries</a> for its cruelty in order to do so. As a result, its store openings <a rel=\"noopener noreferrer\" href=\"https://www.nbcnewyork.com/news/local/Blood-On-Their-Hands-Topless-Protesters-Rally-Outside-NYC-Coat-Store-Canada-Goose-497948811.html\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.nbcnewyork.com/news/local/Blood-On-Their-Hands-Topless-Protesters-Rally-Outside-NYC-Coat-Store-Canada-Goose-497948811.html&amp;source=gmail&amp;ust=1564588756181000&amp;usg=AFQjCNGvlzK2asKNXqAmo3I1Zz8kUYCTBw\" target=\"_blank\">regularly draw protesters</a>.</p>\n<p dir=\"ltr\">But by and large, the trend is in the opposite direction. From up-and-coming brands to the biggest names in fashion, the industry is moving away from the destructive practices of years past and toward cleaner, ethical ways of making clothes.</p>\n<p dir=\"ltr\">It shouldn’t be a surprise. After all, being successful in fashion has always required changing with the times — and in 2019, basing an industry on labor abuse, destruction of the environment and animal torture to make their products is no longer a sustainable business model.</p>\n<div>\n<a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=JRFADbajVkw:5lWGq5Zbas8:2mJPEYqXBVI\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=JRFADbajVkw:5lWGq5Zbas8:7Q72WNTAKBA\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=JRFADbajVkw:5lWGq5Zbas8:yIl2AUoC8zA\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=JRFADbajVkw:5lWGq5Zbas8:-BTjWOF_DHI\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?i=JRFADbajVkw:5lWGq5Zbas8:-BTjWOF_DHI\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=JRFADbajVkw:5lWGq5Zbas8:D7DqB2pKExk\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?i=JRFADbajVkw:5lWGq5Zbas8:D7DqB2pKExk\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=JRFADbajVkw:5lWGq5Zbas8:qj6IDK7rITs\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs\"></a>\n</div><img width=\"1\" alt=\"\" src=\"http://feeds.feedburner.com/~r/Techcrunch/~4/JRFADbajVkw\" height=\"1\">",
+          "direction": "ltr"
+      },
+      "title": "Ethical fashion is on the rise",
+      "author": "Jonathan Shieber",
+      "summary": {
+          "content": "Brian Kateman Contributor Share on Twitter Brian Kateman is President and Cofounder of the Reducetarian Foundation. More posts by this contributor Fish replacement may be the next big wave in alternative protein development The fashion industry has historically relied on exploitative, unsustainable and unethical labor practices in order to sell clothes — but if recent trends...",
+          "direction": "ltr"
+      },
+      "alternate": [
+          {
+              "href": "http://feedproxy.google.com/~r/Techcrunch/~3/JRFADbajVkw/",
+              "type": "text/html"
+          }
+      ],
+      "canonical": [
+          {
+              "href": "https://techcrunch.com/2019/08/03/ethical-fashion-is-on-the-rise/",
+              "type": "text/html"
+          }
+      ],
+      "crawled": 1564850231447,
+      "published": 1564849841000,
+      "origin": {
+          "streamId": "feed/http://feeds.feedburner.com/Techcrunch",
+          "title": "TechCrunch",
+          "htmlUrl": "https://techcrunch.com"
+      },
+      "visual": {
+          "processor": "feedly-nikon-v3.1",
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-978108544.jpg",
+          "width": 5197,
+          "height": 3464,
+          "contentType": "image/jpeg"
+      },
+      "unread": true,
+      "categories": [
+          {
+              "id": "user/ba430eda-8152-46f2-b937-a695e3d84777/category/Tech",
+              "label": "Tech"
+          }
+      ],
+      "commonTopics": [
+          {
+              "score": 0.978,
+              "id": "nlp/f/topic/2398",
+              "salienceLevel": "about",
+              "label": "vegan"
+          },
+          {
+              "score": 0.894,
+              "id": "nlp/f/topic/444",
+              "salienceLevel": "about",
+              "label": "children"
+          },
+          {
+              "score": 0.76,
+              "id": "nlp/f/topic/2457",
+              "salienceLevel": "mention",
+              "label": "wearables"
+          },
+          {
+              "score": 0.719,
+              "id": "nlp/f/topic/552",
+              "salienceLevel": "mention",
+              "label": "cosmetics"
+          }
+      ],
+      "entities": [
+          {
+              "mentions": [
+                  {
+                      "text": "Stella McCartney"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:232812",
+              "salienceLevel": "mention",
+              "label": "Stella McCartney"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "eco-friendly"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:655870",
+              "salienceLevel": "mention",
+              "label": "environmentally friendly"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "textile industry"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:607081",
+              "salienceLevel": "mention",
+              "label": "textile industry"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "textile dyeing"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:1164991",
+              "salienceLevel": "mention",
+              "label": "dyeing"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "skinned alive"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:1145315",
+              "salienceLevel": "mention",
+              "label": "flaying"
+          }
+      ],
+      "engagement": 323,
+      "engagementRate": 1.16
+  },
+  {
+      "id": "Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_16c58384887:15f1592:fb35c184",
+      "keywords": [
+          "Cryptocurrency",
+          "Finance",
+          "Apple Card",
+          "credit card",
+          "cryptocurrency",
+          "digital currency",
+          "finance",
+          "Goldman Sachs",
+          "money",
+          "United States"
+      ],
+      "originId": "https://techcrunch.com/?p=1864384",
+      "fingerprint": "3b89b0f1",
+      "content": {
+          "content": "<p>Cryptocurrency fans who were hoping to use Apple’s forthcoming credit card to splash on coin are out of luck. You also won’t be able to use the Apple Card to buy lottery tickets, casino gambling chips in any form, physical or virtual, or foreign currency or travelers checks.</p>\n<p><a href=\"https://uk.reuters.com/article/uk-apple-goldman-sachs-consumers-crypto/apple-card-will-not-allow-purchase-of-cryptocurrencies-idUKKCN1US2K4\">Reuters</a> spotted the detail in a <a href=\"https://www.goldmansachs.com/terms-and-conditions/Apple-Card-Customer-Agreement.pdf\">customer agreement</a> posted to Apple Card’s card issuer partner Goldman Sachs’ website which lists restrictions on transactions it describes as “cash advance and cash equivalents”.</p>\n<p>The agreement defines these as meaning “any cash advance and other cash-like transaction, including purchases of cash equivalents such as travelers checks, foreign currency, or cryptocurrency; money orders; peer to peer transfers, wire transfers or similar cash-like transactions; lottery tickets, casino gaming chips (whether physical or digital), or race track wagers or similar betting transactions”.</p>\n<p>Given the wild swings in crypto valuations the Apple+Goldman credit tie-up saying a firm ‘no’ to cardholders splashing on such shaky stuff is hardly surprising.</p>\n<p>Apple announced it was getting into the credit card game back in <a href=\"https://techcrunch.com/2019/03/25/apple-introduces-its-own-credit-card-the-apple-card/\">March</a>, saying the card would offer a 2% cash back incentive for using Apple Pay to make purchases. (The physical version of the Apple Card is slightly less generous vs the digital card.) While if you’re buying stuff direct from Apple there’s 3% cash-back.</p>\n<p>There are also no late fees and no penalty rates. Interest rates for Apple Card are in the range of 13-24%, based on the user’s creditworthiness.</p>\n<p>As with Apple Pay, there’s a privacy promise too — with a pledge that Apple Card transaction data won’t be sold for advertising or marketing, not by Apple, Goldman or any other partners. Though data may be shared with regulators for financial reporting purposes and so on.</p>\n<p>The Apple Card is due to be released in the US <a href=\"https://techcrunch.com/2019/07/30/tim-cook-confirms-apple-card-is-rolling-out-next-month/\">next month</a>.</p>\n<div>\n<a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=3Zr13FjxEJY:nJe3Ajk2hg0:2mJPEYqXBVI\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=3Zr13FjxEJY:nJe3Ajk2hg0:7Q72WNTAKBA\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=3Zr13FjxEJY:nJe3Ajk2hg0:yIl2AUoC8zA\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=3Zr13FjxEJY:nJe3Ajk2hg0:-BTjWOF_DHI\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?i=3Zr13FjxEJY:nJe3Ajk2hg0:-BTjWOF_DHI\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=3Zr13FjxEJY:nJe3Ajk2hg0:D7DqB2pKExk\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?i=3Zr13FjxEJY:nJe3Ajk2hg0:D7DqB2pKExk\"></a> <a href=\"http://feeds.feedburner.com/~ff/Techcrunch?a=3Zr13FjxEJY:nJe3Ajk2hg0:qj6IDK7rITs\"><img border=\"0\" src=\"http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs\"></a>\n</div><img width=\"1\" alt=\"\" src=\"http://feeds.feedburner.com/~r/Techcrunch/~4/3Zr13FjxEJY\" height=\"1\">",
+          "direction": "ltr"
+      },
+      "title": "Apple Card can’t be used to buy crypto",
+      "author": "Natasha Lomas",
+      "summary": {
+          "content": "Cryptocurrency fans who were hoping to use Apple’s forthcoming credit card to splash on coin are out of luck. You also won’t be able to use the Apple Card to buy lottery tickets, casino gambling chips in any form, physical or virtual, or foreign currency or travelers checks. Reuters spotted the detail in a customer...",
+          "direction": "ltr"
+      },
+      "alternate": [
+          {
+              "href": "http://feedproxy.google.com/~r/Techcrunch/~3/3Zr13FjxEJY/",
+              "type": "text/html"
+          }
+      ],
+      "canonical": [
+          {
+              "href": "https://techcrunch.com/2019/08/03/apple-card-cant-be-used-to-buy-crypto/",
+              "type": "text/html"
+          }
+      ],
+      "crawled": 1564848179335,
+      "published": 1564848148000,
+      "origin": {
+          "streamId": "feed/http://feeds.feedburner.com/Techcrunch",
+          "title": "TechCrunch",
+          "htmlUrl": "https://techcrunch.com"
+      },
+      "visual": {
+          "processor": "feedly-nikon-v3.1",
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Screen-Shot-2019-03-25-at-1.37.32-PM.png?w=642",
+          "width": 642,
+          "height": 399,
+          "contentType": "image/png"
+      },
+      "unread": true,
+      "categories": [
+          {
+              "id": "user/ba430eda-8152-46f2-b937-a695e3d84777/category/Tech",
+              "label": "Tech"
+          }
+      ],
+      "commonTopics": [
+          {
+              "score": 48.54147345792913,
+              "id": "nlp/f/topic/3047",
+              "salienceLevel": "about",
+              "label": "blockchain"
+          },
+          {
+              "score": 0.953,
+              "id": "nlp/f/topic/938",
+              "salienceLevel": "about",
+              "label": "gambling"
+          },
+          {
+              "score": 0.751,
+              "id": "nlp/f/topic/2256",
+              "salienceLevel": "mention",
+              "label": "tech"
+          }
+      ],
+      "entities": [
+          {
+              "mentions": [
+                  {
+                      "text": "Apple"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:312",
+              "salienceLevel": "about",
+              "label": "Apple"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "credit card"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:161380",
+              "salienceLevel": "mention",
+              "label": "credit card"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "Goldman Sachs"
+                  },
+                  {
+                      "text": "Goldman"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:193326",
+              "salienceLevel": "mention",
+              "label": "Goldman Sachs"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "Apple Pay"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:18010990",
+              "salienceLevel": "mention",
+              "label": "Apple Pay"
+          },
+          {
+              "mentions": [
+                  {
+                      "text": "the US"
+                  }
+              ],
+              "id": "nlp/f/entity/wd:30",
+              "salienceLevel": "mention",
+              "label": "United States of America"
+          }
+      ],
+      "engagement": 259,
+      "engagementRate": 0.91,
+      "memes": [
+          {
+              "id": "topic/tech_en/meme/64771ccc-b630-11e9-89dc-0a580a0c0327",
+              "score": 0.5962638688923152,
+              "label": "Apple Card MacBook"
+          }
+      ]
+  }
+]
+
+  
