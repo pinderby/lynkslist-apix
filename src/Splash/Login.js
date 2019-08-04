@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-import logo from '../assets/apixhub-icon.svg';
+import logo from '../assets/lynkslist_horizontal_logo.png';
 
 class Login extends Component {
   constructor(props) {
