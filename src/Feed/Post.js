@@ -4,14 +4,16 @@ import Tag from './Tag';
 
 function Post(props) {
   console.log("props: ", props); // TODO --DTM-- Remove
+  const post = props.post
 
   let imageContainer = "", hasImg = false;
-  if (props.post.visual.url != "none") {
+  if (post.visual) {
+    // TODO --DTM-- update with imgurl
     hasImg = true;
     imageContainer = 
       <div className="img-container col-md-4">
-        <a href={props.post.canonicalUrl} >
-          <img src={props.post.visual.url} className="card-img-top" alt="..." />
+        <a href={post.attributes.origin} >
+          <img src={post.visual.url} className="card-img-top" alt="..." />
         </a>
       </div>;
   }
@@ -23,18 +25,21 @@ function Post(props) {
         <div className={hasImg ? "col-md-8" : "col-md-12"}>
           <div className="card-body">
             <h5 className="card-title">
-              <a href={props.post.canonicalUrl}>{props.post.title}</a>
+              <a href={post.attributes.origin}>{post.attributes.title}</a>
             </h5>
             <small class="text-muted">
-              <a href={props.post.origin.htmlUrl}>{props.post.origin.title}</a>
-              &nbsp;•&nbsp;
-              Published&nbsp;{moment(props.post.crawled).fromNow()}
+              {/* TODO --DTM-- Update with origin data */}
+              {/* <a href={post.origin.htmlUrl}>{post.origin.title}</a> */}
+              {/* &nbsp;•&nbsp; */}
+              Published&nbsp;{moment(post.attributes.published).fromNow()}
             </small>
-            <p className="post-summary card-text">{props.post.summary.content}</p>
+            {/* TODO --DTM-- Update not to use dangerouslySetInnerHTML */}
+            <p className="post-summary card-text" dangerouslySetInnerHTML={{__html: post.attributes.summary}}></p>
             <div className="tags-container">
-              {props.post.keywords.map((tag, i) => 
+              {/* TODO --DTM-- Update with tags */}
+              {/* {props.post.keywords.map((tag, i) => 
                 <Tag key={i} tag={tag} />
-              )}
+              )} */}
             </div>
           </div>
         </div>
