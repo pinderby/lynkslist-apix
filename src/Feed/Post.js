@@ -7,13 +7,13 @@ function Post(props) {
   const post = props.post
 
   let imageContainer = "", hasImg = false;
-  if (post.visual) {
+  if (post.attributes['visual-url'] && (post.attributes['visual-url'] !== 'none')) {
     // TODO --DTM-- update with imgurl
     hasImg = true;
     imageContainer = 
       <div className="img-container col-md-4">
-        <a href={post.attributes.origin} >
-          <img src={post.visual.url} className="card-img-top" alt="..." />
+        <a href={post.attributes['canonical-url']} >
+          <img src={post.attributes['visual-url']} className="card-img-top" alt="..." />
         </a>
       </div>;
   }
@@ -25,21 +25,19 @@ function Post(props) {
         <div className={hasImg ? "col-md-8" : "col-md-12"}>
           <div className="card-body">
             <h5 className="card-title">
-              <a href={post.attributes.origin}>{post.attributes.title}</a>
+              <a href={post.attributes['canonical-url']}>{post.attributes.title}</a>
             </h5>
-            <small class="text-muted">
+            <small className="text-muted">
               {/* TODO --DTM-- Update with origin data */}
-              {/* <a href={post.origin.htmlUrl}>{post.origin.title}</a> */}
-              {/* &nbsp;•&nbsp; */}
-              Published&nbsp;{moment(post.attributes.published).fromNow()}
+              <a href={post.attributes['origin-url']}>{post.attributes['origin-title']}</a>
+              &nbsp;•&nbsp;Published&nbsp;{moment(post.attributes.published).fromNow()}
             </small>
             {/* TODO --DTM-- Update not to use dangerouslySetInnerHTML */}
-            <p className="post-summary card-text" dangerouslySetInnerHTML={{__html: post.attributes.summary}}></p>
+            <p className="post-summary card-text" dangerouslySetInnerHTML={{__html: post.attributes['summary-content']}}></p>
             <div className="tags-container">
-              {/* TODO --DTM-- Update with tags */}
-              {/* {props.post.keywords.map((tag, i) => 
-                <Tag key={i} tag={tag} />
-              )} */}
+              {post.attributes.tags.map((tag, i) => 
+                <Tag key={tag.id} tag={tag} />
+              )}
             </div>
           </div>
         </div>

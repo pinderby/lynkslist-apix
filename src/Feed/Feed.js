@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from '../Shared/Navbar';
 import Post from './Post';
-import data from '../test_data.json';
 import axios from 'axios';
+// TODO --DTM-- Remove when no longer used
+import data from '../test_data.json';
 
 function Feed() {
   const BASE_URL = 'http://localhost:4567';
