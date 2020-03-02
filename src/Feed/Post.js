@@ -36,7 +36,7 @@ function Post(props) {
             <p className="post-summary card-text" dangerouslySetInnerHTML={{__html: post.attributes['summary-content']}}></p>
             <div className="tags-container">
               {post.attributes.tags.map((tag, i) => 
-                <Tag key={tag.id} tag={tag} />
+                <Tag key={tag.id+post.id} tag={tag} />
               )}
             </div>
           </div>
