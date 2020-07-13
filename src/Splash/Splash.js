@@ -2,28 +2,40 @@ import React, { Component } from 'react';
 import graphql from "babel-plugin-relay/macro";
 import { Redirect } from 'react-router-dom';
 import { QueryRenderer, fetchQuery, commitMutation } from "react-relay";
+import axios from 'axios';
 import RelayEnvironment from "../RelayEnvironment.js";
 import Login from './Login.js';
 import Signup from './Signup.js';
 // import logo from '../logo.svg';
+const BASE_URL = 'http://localhost:4567';
 
 class Splash extends Component {
   constructor(props) {
     super(props);
-
+    
     console.log('user_token: ', localStorage.getItem('user_token')); // TODO --DM-- Remove
-    console.log('username: ', localStorage.getItem('username')); // TODO --DM-- Remove
+    console.log('name: ', localStorage.getItem('name')); // TODO --DM-- Remove
+    console.log('email: ', localStorage.getItem('email')); // TODO --DM-- Remove
+    // console.log('username: ', localStorage.getItem('username')); // TODO --DM-- Remove
 
     // Check if user token is already stored
     let token = '', goToFeed = false, user = {};
     if (localStorage.getItem('user_token') && 
         localStorage.getItem('user_token') !== 'undefined' && 
-        localStorage.getItem('username') && 
-        localStorage.getItem('username') !== 'undefined') {
+        localStorage.getItem('name') && 
+        localStorage.getItem('name') !== 'undefined' &&
+        localStorage.getItem('email') && 
+        localStorage.getItem('email') !== 'undefined') {
+        // localStorage.getItem('username') && 
+        // localStorage.getItem('username') !== 'undefined') {
       
       // Go to feed
       goToFeed = true;
-      user = { username: localStorage.getItem('username') };
+      user = { 
+        name: localStorage.getItem('name'), 
+        email: localStorage.getItem('email') 
+      };
+      // user = { username: localStorage.getItem('username') };
     }
     
     // Bind methods
@@ -50,49 +62,88 @@ class Splash extends Component {
   }
 
   // Log user in
-  login(username, password) {
-    console.log(username, password); // TODO --DTM-- Remove
+  // login(username, password) {
+  //   console.log(username, password); // TODO --DTM-- Remove
 
-    const query = graphql`
-      query SplashQuery($username: String!, $password: String!) {
-        user(username: $username) {
-          id
-          username
-          fname
-          lname
-          token(password: $password)
-          email
-          preferences
-          repos {
-            id
-          }
-          repos {
-            id
-            name
-          }
-        }
+  login(name, email) {
+    console.log(name, email); // TODO --DTM-- Remove
+
+    // Set "this"
+    let _this = this
+
+    axios.get(`${BASE_URL}/api/auth`, {
+      params: {
+        'name': name,
+        'email': email
       }
-  `;
+    })
+      .then(function (response) {
+        // handle success
+        console.log(response);
 
-  const variables = {
-    username: username,
-    password: password
-  };
+        //
+        let authedUser = response.data.data.attributes
 
-  fetchQuery(RelayEnvironment, query, variables)
-    .then(data => {
-      // Save token and username
-      localStorage.setItem('user_token', data.user.token);
-      localStorage.setItem('username', data.user.username);
+        // Save token and username
+        localStorage.setItem('name', authedUser.name);
+        localStorage.setItem('email', authedUser.email);
+        localStorage.setItem('user_token', authedUser["google-token"]);
 
-      // Go to feed
-      this.setState({
-        user: data.user,
-        goToFeed: true
+        // Go to feed
+        _this.setState({
+          user: authedUser,
+          goToFeed: true
+        });
+      })
+      .catch(function (error) {
+        // handle error
+        console.log(error);
+      })
+      .finally(function () {
+        // always executed
       });
-
-    });
   }
+
+  //   const query = graphql`
+  //     query SplashQuery($username: String!, $password: String!) {
+  //       user(username: $username) {
+  //         id
+  //         username
+  //         fname
+  //         lname
+  //         token(password: $password)
+  //         email
+  //         preferences
+  //         repos {
+  //           id
+  //         }
+  //         repos {
+  //           id
+  //           name
+  //         }
+  //       }
+  //     }
+  // `;
+
+  // const variables = {
+  //   username: username,
+  //   password: password
+  // };
+
+  // fetchQuery(RelayEnvironment, query, variables)
+  //   .then(data => {
+  //     // Save token and username
+  //     localStorage.setItem('user_token', data.user.token);
+  //     localStorage.setItem('username', data.user.username);
+
+  //     // Go to feed
+  //     this.setState({
+  //       user: data.user,
+  //       goToFeed: true
+  //     });
+
+  //   });
+  // }
 
   // Sign up new user
   signup(firstname, lastname, username, email, password) {

@@ -12,6 +12,8 @@ class Login extends Component {
     this.handleSubmit = this.handleSubmit.bind(this);
 
     this.state = {
+      name: '',
+      email: '',
       username: '',
       password: ''
     };
@@ -27,7 +29,8 @@ class Login extends Component {
     event.stopPropagation();
 
     // Log in
-    this.props.login(this.state.username, this.state.password);
+    this.props.login(this.state.name, this.state.email);
+    // this.props.login(this.state.username, this.state.password);
   }
   
   render() {
@@ -36,25 +39,41 @@ class Login extends Component {
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Welcome to Lynkslist</h2>
         <Form className="splash-form" onSubmit={e => this.handleSubmit(e)}>
-          <Form.Group controlId="username">
-            <Form.Label>Username</Form.Label>
+          <Form.Group controlId="name">
+              <Form.Label>Name - FOR TESTING</Form.Label>
+              <Form.Control 
+                required
+                type="name" 
+                placeholder="Enter Name"
+                value={this.state.name} 
+                onChange={this.handleInputChange} />
+          </Form.Group>
+          <Form.Group controlId="email">
+              <Form.Label>Email - FOR TESTING</Form.Label>
+              <Form.Control 
+                required
+                type="email" 
+                placeholder="Enter Email"
+                value={this.state.email} 
+                onChange={this.handleInputChange} />
+          </Form.Group>
+          {/* <Form.Group controlId="username">
+            <Form.Label>Username - NOT USED</Form.Label>
             <Form.Control 
-              required
               type="username" 
               placeholder="Enter Username"
               value={this.state.username} 
               onChange={this.handleInputChange} />
           </Form.Group>
           <Form.Group controlId="password">
-            <Form.Label>Password</Form.Label>
+            <Form.Label>Password - NOT USED</Form.Label>
             <Form.Control 
-              required
               placeholder="Password"
               name="password" 
               type="password" 
               value={this.state.password} 
               onChange={this.handleInputChange} />
-          </Form.Group>
+          </Form.Group> */}
           <Button variant="primary" type="submit">
             Submit
           </Button>

@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Redirect } from 'react-router-dom';
 import Navbar from '../Shared/Navbar';
 import Post from './Post';
 import axios from 'axios';
@@ -12,6 +13,7 @@ function Feed() {
   const [page, setPage] = useState(1);
   const [postList, setPostList] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [bounceToSplash, setBounceToSplash] = useState(false);
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -87,14 +89,26 @@ function Feed() {
 
   // Load stock feed only on initial load
   useEffect(() => {
-    loadInitialFeed();
+    if (!localStorage.getItem('user_token') || 
+        localStorage.getItem('user_token') === 'undefined') {
+      
+      // Bounce to Splash
+      setBounceToSplash(true);
+
+      // TODO --DTM-- Add in logic for if token is expired
+
+    } else {
+
+      // If authed, load feed
+      loadInitialFeed();
+    }
   }, []);
 
   // TODO --DTM-- handle case where this is a reload from a blank search (don't append results)
   // Alternatively, could just separately handle the pagination case
   const loadInitialFeed = () => {
     // Make a request for the news feed
-    axios.get(`${BASE_URL}/api/feed`, {
+    axios.get(`${BASE_URL}/api/front`, {
       params: {
         'page[number]': page,
         'page[size]': pageSize
@@ -115,42 +129,46 @@ function Feed() {
       });
   };
 
-  return (
-    <div>
-      <Navbar />
-      <div className="feed-container container">
-        <form className="form-inline feed-search" onSubmit={handleSubmit}>
-          <input 
-            className="form-control mr-sm-2" 
-            type="search" 
-            placeholder="Search" 
-            aria-label="Search"
-            value={searchInput}
-            onChange={e => setSearchInput(e.target.value)} />
-          <button 
-            className="btn btn-outline-success my-2 my-sm-0" 
-            onClick={searchPosts}
-            type="submit">
-              Search
-          </button>
-        </form>
-        <div className="feed-content-container">
-          {isLoading && <p>Loading news...</p>}
-
-          {postList.map((post, i) => 
-            <Post key={i} post={post} />
+  if (bounceToSplash) {
+    return <Redirect to={`/`} />;
+  } else {
+    return (
+      <div>
+        <Navbar />
+        <div className="feed-container container">
+          <form className="form-inline feed-search" onSubmit={handleSubmit}>
+            <input 
+              className="form-control mr-sm-2" 
+              type="search" 
+              placeholder="Search" 
+              aria-label="Search"
+              value={searchInput}
+              onChange={e => setSearchInput(e.target.value)} />
+            <button 
+              className="btn btn-outline-success my-2 my-sm-0" 
+              onClick={searchPosts}
+              type="submit">
+                Search
+            </button>
+          </form>
+          <div className="feed-content-container">
+            {isLoading && <p>Loading news...</p>}
+  
+            {postList.map((post, i) => 
+              <Post key={i} post={post} />
+            )}
+          </div>
+          {postList.length !== 0 && (
+            <button 
+              className="btn btn-outline-success my-2 my-sm-0" 
+              onClick={loadMorePosts}>
+                Load more
+            </button>
           )}
         </div>
-        {postList.length !== 0 && (
-          <button 
-            className="btn btn-outline-success my-2 my-sm-0" 
-            onClick={loadMorePosts}>
-              Load more
-          </button>
-        )}
       </div>
-    </div>
-  );
+    );
+  }
 }
 
 export default Feed;

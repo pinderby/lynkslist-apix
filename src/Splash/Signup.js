@@ -130,7 +130,7 @@ class Signup extends Component {
           </Form.Control.Feedback>
         </Form.Group>
         <Form.Group controlId="username">
-          <Form.Label>Username:</Form.Label>
+          <Form.Label>Username: - NOT USED</Form.Label>
           <Form.Control 
             required
             type="username" 
@@ -142,7 +142,7 @@ class Signup extends Component {
           </Form.Control.Feedback>
         </Form.Group>
         <Form.Group controlId="password">
-          <Form.Label>Password:</Form.Label>
+          <Form.Label>Password: - NOT USED</Form.Label>
           <Form.Control 
             required
             type="password" 
@@ -154,7 +154,7 @@ class Signup extends Component {
           </Form.Control.Feedback>
         </Form.Group>
         <Form.Group controlId="confirmPassword">
-          <Form.Label>Confirm Password:</Form.Label>
+          <Form.Label>Confirm Password: - NOT USED</Form.Label>
           <Form.Control 
             required
             type="password" 
