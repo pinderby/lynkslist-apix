@@ -11,6 +11,7 @@ function App() {
       <div className="App">
         <Route exact path="/" component={Splash} />
         <Route exact path="/feed" component={Feed} />
+        <Route exact path="/feed/:feedId" component={Feed} />
       </div>
     </Router>
   );
