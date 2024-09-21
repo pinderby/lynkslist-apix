@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.10.0",
-    "axios": "^1.6.0",
+    "axios": "^1.7.4",
     "bootstrap": "^5.0.0",
     "graphql": "^14.4.2",
     "moment": "^2.29.4",
